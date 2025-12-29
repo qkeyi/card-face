@@ -55,7 +55,8 @@ issuers = [
     "US Bank",
     "Penfed",
     "Synchrony",
-    "Others" # 'Others' is treated as an issuer
+    "Others", # 'Others' is treated as an issuer
+    "Virtual ID"
 ]
 
 base_project_path = os.getcwd() # Current working directory
