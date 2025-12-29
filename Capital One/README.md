@@ -1,4 +1,8 @@
 # Capital One Cards
 
-- ![Capital One Quick Silver](<Credit Card\Personal\Capital One Quick Silver.png>) Capital One Quick Silver
-- ![Capital One Venture X](<Credit Card\Personal\Capital One Venture X.png>) Capital One Venture X
+<table>
+  <tr>
+    <td><img src="Credit Card\Personal\Capital One Quick Silver.png" alt="Capital One Quick Silver" width="150"><br>Capital One Quick Silver</td>
+    <td><img src="Credit Card\Personal\Capital One Venture X.png" alt="Capital One Venture X" width="150"><br>Capital One Venture X</td>
+  </tr>
+</table>

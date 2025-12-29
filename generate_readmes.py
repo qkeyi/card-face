@@ -27,8 +27,16 @@ def generate_readme_for_issuer(issuer_name, base_project_path):
     card_data.sort(key=lambda x: x[0].lower())
 
     readme_content = f"# {issuer_name} Cards\n\n"
-    for name, rel_path in card_data:
-        readme_content += f"- ![{name}](<{rel_path}>) {name}\n"
+    readme_content += "<table>\n"
+    
+    # Group cards into rows of 3
+    for i in range(0, len(card_data), 3):
+        row_cards = card_data[i:i+3]
+        readme_content += "  <tr>\n"
+        for name, rel_path in row_cards:
+            readme_content += f"    <td><img src=\"{rel_path}\" alt=\"{name}\" width=\"150\"><br>{name}</td>\n"
+        readme_content += "  </tr>\n"
+    readme_content += "</table>\n"
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme_content)

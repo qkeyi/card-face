@@ -1,5 +1,9 @@
 # Penfed Cards
 
-- ![Penfed Debit](<Debit Card\Personal\Penfed Debit.png>) Penfed Debit
-- ![Penfed Pathfinder](<Credit Card\Personal\Penfed Pathfinder.png>) Penfed Pathfinder
-- ![Penfed Power Cash](<Credit Card\Personal\Penfed Power Cash.png>) Penfed Power Cash
+<table>
+  <tr>
+    <td><img src="Debit Card\Personal\Penfed Debit.png" alt="Penfed Debit" width="150"><br>Penfed Debit</td>
+    <td><img src="Credit Card\Personal\Penfed Pathfinder.png" alt="Penfed Pathfinder" width="150"><br>Penfed Pathfinder</td>
+    <td><img src="Credit Card\Personal\Penfed Power Cash.png" alt="Penfed Power Cash" width="150"><br>Penfed Power Cash</td>
+  </tr>
+</table>
