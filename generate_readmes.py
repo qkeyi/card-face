@@ -27,22 +27,16 @@ def generate_readme_for_issuer(issuer_name, base_project_path):
     card_data.sort(key=lambda x: x[0].lower())
 
     readme_content = f"# {issuer_name} Cards\n\n"
-    readme_content += "| | | |\n"
-    readme_content += "|:---:|:---:|:---:|\n"
+    readme_content += "<table>\n"
     
     # Group cards into rows of 3
     for i in range(0, len(card_data), 3):
         row_cards = card_data[i:i+3]
-        row_cells = []
+        readme_content += "  <tr>\n"
         for name, rel_path in row_cards:
-            row_cells.append(f"![{name}](<{rel_path}>) {name}")
-        
-        # Fill empty cells if row_cards is less than 3
-        while len(row_cells) < 3:
-            row_cells.append("")
-
-        readme_content += f"| { ' | '.join(row_cells) } |\n"
-
+            readme_content += f"    <td><img src=\"{rel_path}\" alt=\"{name}\" width=\"150\"><br>{name}</td>\n"
+        readme_content += "  </tr>\n"
+    readme_content += "</table>\n"
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme_content)
