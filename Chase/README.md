@@ -1,46 +1,46 @@
 # Chase Cards
 
-- ![Amazon (not prime)](Credit Card\Personal\Amazon (not prime).jpeg) Amazon (not prime)
-- ![Amazon Prime](Credit Card\Personal\Amazon Prime.png) Amazon Prime
-- ![Amazon Prime (Whole Foods)](Credit Card\Personal\Amazon Prime (Whole Foods).png) Amazon Prime (Whole Foods)
-- ![Debit Card](Debit Card\Personal\Debit Card.png) Debit Card
-- ![Disney](Credit Card\Personal\Disney.jpeg) Disney
-- ![Disney Midnight](Debit Card\Personal\Disney Midnight.png) Disney Midnight
-- ![Freedom](Credit Card\Personal\Freedom.png) Freedom
-- ![Freedom Flex](Credit Card\Personal\Freedom Flex.png) Freedom Flex
-- ![Freedom Unlimited](Credit Card\Personal\Freedom Unlimited.png) Freedom Unlimited
-- ![Frozen](Debit Card\Personal\Frozen.png) Frozen
-- ![Hyatt](Credit Card\Business\Hyatt.jpeg) Hyatt
-- ![IHG Gold](Credit Card\Personal\IHG Gold.png) IHG Gold
-- ![IHG One Rewards Premier](Credit Card\Personal\IHG One Rewards Premier.png) IHG One Rewards Premier
-- ![IHG One Rewards Select (old)](Credit Card\Personal\IHG One Rewards Select (old).png) IHG One Rewards Select (old)
-- ![Ink Cash](Credit Card\Business\Ink Cash.png) Ink Cash
-- ![Ink Cash old](Credit Card\Business\Ink Cash old.png) Ink Cash old
-- ![Ink Preferred](Credit Card\Business\Ink Preferred.png) Ink Preferred
-- ![ink premier](Credit Card\Business\ink premier.jpeg) ink premier
-- ![Ink Unlimited](Credit Card\Business\Ink Unlimited.png) Ink Unlimited
-- ![Ink Unlimited old](Credit Card\Business\Ink Unlimited old.jpeg) Ink Unlimited old
-- ![J.P.Morgan](Debit Card\Personal\J.P.Morgan.jpeg) J.P.Morgan
-- ![Marriott Bonvoy Bold](Credit Card\Personal\Marriott Bonvoy Bold.png) Marriott Bonvoy Bold
-- ![Marriott Bonvoy Boundless 2023](Credit Card\Personal\Marriott Bonvoy Boundless 2023.png) Marriott Bonvoy Boundless 2023
-- ![Marriott Bonvoy Boundless old](Credit Card\Personal\Marriott Bonvoy Boundless old.png) Marriott Bonvoy Boundless old
-- ![Platinum business](Credit Card\Business\Platinum business.jpeg) Platinum business
-- ![Private Client](Debit Card\Personal\Private Client.png) Private Client
-- ![Ritz-Carlton](Credit Card\Personal\Ritz-Carlton.png) Ritz-Carlton
-- ![Sapphire Preferred](Credit Card\Personal\Sapphire Preferred.png) Sapphire Preferred
-- ![Sapphire Preferred 2020](Credit Card\Personal\Sapphire Preferred 2020.png) Sapphire Preferred 2020
-- ![Sapphire Reserve](Credit Card\Personal\Sapphire Reserve.png) Sapphire Reserve
-- ![Sapphire Reserve Biz 2025](Credit Card\Business\Sapphire Reserve Biz 2025.jpeg) Sapphire Reserve Biz 2025
-- ![Southwest Plus](Credit Card\Personal\Southwest Plus.png) Southwest Plus
-- ![Southwest Premier Business](Credit Card\Personal\Southwest Premier Business.png) Southwest Premier Business
-- ![Southwest Priority](Credit Card\Personal\Southwest Priority.png) Southwest Priority
-- ![Star Wars](Debit Card\Personal\Star Wars.png) Star Wars
-- ![Star Wars new](Debit Card\Personal\Star Wars new.jpeg) Star Wars new
-- ![United Mileage Plus](Credit Card\Personal\United Mileage Plus.png) United Mileage Plus
-- ![United Mileage Plus CLUB](Credit Card\Personal\United Mileage Plus CLUB.jpeg) United Mileage Plus CLUB
-- ![United Mileage Plus Explorer](Credit Card\Personal\United Mileage Plus Explorer.png) United Mileage Plus Explorer
-- ![United Mileage Plus Gateway](Credit Card\Personal\United Mileage Plus Gateway.png) United Mileage Plus Gateway
-- ![United Mileage Plus Gateway 2024](Credit Card\Personal\United Mileage Plus Gateway 2024.jpeg) United Mileage Plus Gateway 2024
-- ![United Mileage Plus Quest](Credit Card\Personal\United Mileage Plus Quest.png) United Mileage Plus Quest
-- ![United Mileage Plus Quest 2024](Credit Card\Personal\United Mileage Plus Quest 2024.jpeg) United Mileage Plus Quest 2024
-- ![World of Hyatt](Credit Card\Personal\World of Hyatt.png) World of Hyatt
+- ![Amazon (not prime)](<Credit Card\Personal\Amazon (not prime).jpeg>) Amazon (not prime)
+- ![Amazon Prime](<Credit Card\Personal\Amazon Prime.png>) Amazon Prime
+- ![Amazon Prime (Whole Foods)](<Credit Card\Personal\Amazon Prime (Whole Foods).png>) Amazon Prime (Whole Foods)
+- ![Debit Card](<Debit Card\Personal\Debit Card.png>) Debit Card
+- ![Disney](<Credit Card\Personal\Disney.jpeg>) Disney
+- ![Disney Midnight](<Debit Card\Personal\Disney Midnight.png>) Disney Midnight
+- ![Freedom](<Credit Card\Personal\Freedom.png>) Freedom
+- ![Freedom Flex](<Credit Card\Personal\Freedom Flex.png>) Freedom Flex
+- ![Freedom Unlimited](<Credit Card\Personal\Freedom Unlimited.png>) Freedom Unlimited
+- ![Frozen](<Debit Card\Personal\Frozen.png>) Frozen
+- ![Hyatt](<Credit Card\Business\Hyatt.jpeg>) Hyatt
+- ![IHG Gold](<Credit Card\Personal\IHG Gold.png>) IHG Gold
+- ![IHG One Rewards Premier](<Credit Card\Personal\IHG One Rewards Premier.png>) IHG One Rewards Premier
+- ![IHG One Rewards Select (old)](<Credit Card\Personal\IHG One Rewards Select (old).png>) IHG One Rewards Select (old)
+- ![Ink Cash](<Credit Card\Business\Ink Cash.png>) Ink Cash
+- ![Ink Cash old](<Credit Card\Business\Ink Cash old.png>) Ink Cash old
+- ![Ink Preferred](<Credit Card\Business\Ink Preferred.png>) Ink Preferred
+- ![ink premier](<Credit Card\Business\ink premier.jpeg>) ink premier
+- ![Ink Unlimited](<Credit Card\Business\Ink Unlimited.png>) Ink Unlimited
+- ![Ink Unlimited old](<Credit Card\Business\Ink Unlimited old.jpeg>) Ink Unlimited old
+- ![J.P.Morgan](<Debit Card\Personal\J.P.Morgan.jpeg>) J.P.Morgan
+- ![Marriott Bonvoy Bold](<Credit Card\Personal\Marriott Bonvoy Bold.png>) Marriott Bonvoy Bold
+- ![Marriott Bonvoy Boundless 2023](<Credit Card\Personal\Marriott Bonvoy Boundless 2023.png>) Marriott Bonvoy Boundless 2023
+- ![Marriott Bonvoy Boundless old](<Credit Card\Personal\Marriott Bonvoy Boundless old.png>) Marriott Bonvoy Boundless old
+- ![Platinum business](<Credit Card\Business\Platinum business.jpeg>) Platinum business
+- ![Private Client](<Debit Card\Personal\Private Client.png>) Private Client
+- ![Ritz-Carlton](<Credit Card\Personal\Ritz-Carlton.png>) Ritz-Carlton
+- ![Sapphire Preferred](<Credit Card\Personal\Sapphire Preferred.png>) Sapphire Preferred
+- ![Sapphire Preferred 2020](<Credit Card\Personal\Sapphire Preferred 2020.png>) Sapphire Preferred 2020
+- ![Sapphire Reserve](<Credit Card\Personal\Sapphire Reserve.png>) Sapphire Reserve
+- ![Sapphire Reserve Biz 2025](<Credit Card\Business\Sapphire Reserve Biz 2025.jpeg>) Sapphire Reserve Biz 2025
+- ![Southwest Plus](<Credit Card\Personal\Southwest Plus.png>) Southwest Plus
+- ![Southwest Premier Business](<Credit Card\Personal\Southwest Premier Business.png>) Southwest Premier Business
+- ![Southwest Priority](<Credit Card\Personal\Southwest Priority.png>) Southwest Priority
+- ![Star Wars](<Debit Card\Personal\Star Wars.png>) Star Wars
+- ![Star Wars new](<Debit Card\Personal\Star Wars new.jpeg>) Star Wars new
+- ![United Mileage Plus](<Credit Card\Personal\United Mileage Plus.png>) United Mileage Plus
+- ![United Mileage Plus CLUB](<Credit Card\Personal\United Mileage Plus CLUB.jpeg>) United Mileage Plus CLUB
+- ![United Mileage Plus Explorer](<Credit Card\Personal\United Mileage Plus Explorer.png>) United Mileage Plus Explorer
+- ![United Mileage Plus Gateway](<Credit Card\Personal\United Mileage Plus Gateway.png>) United Mileage Plus Gateway
+- ![United Mileage Plus Gateway 2024](<Credit Card\Personal\United Mileage Plus Gateway 2024.jpeg>) United Mileage Plus Gateway 2024
+- ![United Mileage Plus Quest](<Credit Card\Personal\United Mileage Plus Quest.png>) United Mileage Plus Quest
+- ![United Mileage Plus Quest 2024](<Credit Card\Personal\United Mileage Plus Quest 2024.jpeg>) United Mileage Plus Quest 2024
+- ![World of Hyatt](<Credit Card\Personal\World of Hyatt.png>) World of Hyatt

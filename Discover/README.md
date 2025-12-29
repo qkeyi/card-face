@@ -1,21 +1,21 @@
 # Discover Cards
 
-- ![Blue](Credit Card\Personal\Blue.jpeg) Blue
-- ![Cashback Debit](Debit Card\Personal\Cashback Debit.png) Cashback Debit
-- ![Cat](Credit Card\Personal\Cat.jpeg) Cat
-- ![City](Credit Card\Personal\City.jpg) City
-- ![Garnet](Credit Card\Personal\Garnet.png) Garnet
-- ![Green](Credit Card\Personal\Green.jpeg) Green
-- ![Husky](Credit Card\Personal\Husky.jpeg) Husky
-- ![Iridescent](Credit Card\Personal\Iridescent.png) Iridescent
-- ![Miles](Credit Card\Personal\Miles.bmp) Miles
-- ![mixtape](Credit Card\Personal\mixtape.png) mixtape
-- ![Mountain](Credit Card\Personal\Mountain.png) Mountain
-- ![New York Skyline](Credit Card\Personal\New York Skyline.png) New York Skyline
-- ![Ocean](Credit Card\Personal\Ocean.png) Ocean
-- ![old](Credit Card\Personal\old.jpeg) old
-- ![Polar Bear](Credit Card\Personal\Polar Bear.jpeg) Polar Bear
-- ![Pride](Credit Card\Personal\Pride.png) Pride
-- ![Rose Quartz](Credit Card\Personal\Rose Quartz.png) Rose Quartz
-- ![Tiger](Credit Card\Personal\Tiger.jpeg) Tiger
-- ![wolf](Credit Card\Personal\wolf.jpg) wolf
+- ![Blue](<Credit Card\Personal\Blue.jpeg>) Blue
+- ![Cashback Debit](<Debit Card\Personal\Cashback Debit.png>) Cashback Debit
+- ![Cat](<Credit Card\Personal\Cat.jpeg>) Cat
+- ![City](<Credit Card\Personal\City.jpg>) City
+- ![Garnet](<Credit Card\Personal\Garnet.png>) Garnet
+- ![Green](<Credit Card\Personal\Green.jpeg>) Green
+- ![Husky](<Credit Card\Personal\Husky.jpeg>) Husky
+- ![Iridescent](<Credit Card\Personal\Iridescent.png>) Iridescent
+- ![Miles](<Credit Card\Personal\Miles.bmp>) Miles
+- ![mixtape](<Credit Card\Personal\mixtape.png>) mixtape
+- ![Mountain](<Credit Card\Personal\Mountain.png>) Mountain
+- ![New York Skyline](<Credit Card\Personal\New York Skyline.png>) New York Skyline
+- ![Ocean](<Credit Card\Personal\Ocean.png>) Ocean
+- ![old](<Credit Card\Personal\old.jpeg>) old
+- ![Polar Bear](<Credit Card\Personal\Polar Bear.jpeg>) Polar Bear
+- ![Pride](<Credit Card\Personal\Pride.png>) Pride
+- ![Rose Quartz](<Credit Card\Personal\Rose Quartz.png>) Rose Quartz
+- ![Tiger](<Credit Card\Personal\Tiger.jpeg>) Tiger
+- ![wolf](<Credit Card\Personal\wolf.jpg>) wolf
