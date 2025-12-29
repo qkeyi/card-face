@@ -2,18 +2,18 @@
 
 <table>
   <tr>
-    <td><img src="Arizona.jpeg" alt="Arizona" width="150"><br>Arizona</td>
-    <td><img src="California.jpeg" alt="California" width="150"><br>California</td>
-    <td><img src="Georgia.jpeg" alt="Georgia" width="150"><br>Georgia</td>
+    <td width="33%" align="center"><img src="Arizona.jpeg" alt="Arizona"><br>Arizona</td>
+    <td width="33%" align="center"><img src="California.jpeg" alt="California"><br>California</td>
+    <td width="33%" align="center"><img src="Georgia.jpeg" alt="Georgia"><br>Georgia</td>
   </tr>
   <tr>
-    <td><img src="Hawaii.jpeg" alt="Hawaii" width="150"><br>Hawaii</td>
-    <td><img src="Iowa.jpeg" alt="Iowa" width="150"><br>Iowa</td>
-    <td><img src="Maryland.jpeg" alt="Maryland" width="150"><br>Maryland</td>
+    <td width="33%" align="center"><img src="Hawaii.jpeg" alt="Hawaii"><br>Hawaii</td>
+    <td width="33%" align="center"><img src="Iowa.jpeg" alt="Iowa"><br>Iowa</td>
+    <td width="33%" align="center"><img src="Maryland.jpeg" alt="Maryland"><br>Maryland</td>
   </tr>
   <tr>
-    <td><img src="New Mexico.jpeg" alt="New Mexico" width="150"><br>New Mexico</td>
-    <td><img src="Ohio.jpeg" alt="Ohio" width="150"><br>Ohio</td>
-    <td><img src="Puerto Rico.jpeg" alt="Puerto Rico" width="150"><br>Puerto Rico</td>
+    <td width="33%" align="center"><img src="New Mexico.jpeg" alt="New Mexico"><br>New Mexico</td>
+    <td width="33%" align="center"><img src="Ohio.jpeg" alt="Ohio"><br>Ohio</td>
+    <td width="33%" align="center"><img src="Puerto Rico.jpeg" alt="Puerto Rico"><br>Puerto Rico</td>
   </tr>
 </table>

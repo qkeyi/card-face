@@ -34,7 +34,7 @@ def generate_readme_for_issuer(issuer_name, base_project_path):
         row_cards = card_data[i:i+3]
         readme_content += "  <tr>\n"
         for name, rel_path in row_cards:
-            readme_content += f"    <td><img src=\"{rel_path}\" alt=\"{name}\" width=\"150\"><br>{name}</td>\n"
+            readme_content += f"    <td width=\"33%\" align=\"center\"><img src=\"{rel_path}\" alt=\"{name}\"><br>{name}</td>\n"
         readme_content += "  </tr>\n"
     readme_content += "</table>\n"
 
